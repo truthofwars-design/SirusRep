@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: SirusRep
+## Notes: Расширенное окно репутации для Sirus с поиском, фильтрами, сортировкой и справкой по фракциям.
+## Author: Миссохота
+## Version: 1.0
+## X-Category: Character Advancement
+## X-Compatible-With: 30300
+## X-Website: https://github.com/truthofwars-design/SirusRep
+## X-Realm: Sirus
+## X-Sirus-Category: 17
+## X-Sirus-Update: https://github.com/truthofwars-design/SirusRep/tree/master
+## SavedVariables: SirusRepDB
+## SavedVariablesPerCharacter: SirusRepCharDB
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+Locales.lua
+Data.lua
+Core.lua
+UI.lua
+Info.lua
